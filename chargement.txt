@@ -1,0 +1,95 @@
+tun504/5000/4545/12:23:32/tunisair/TUN/ 
+tun100/2000/1239/12:00:00/tunisair/TUN/ 
+luf101/2540/1769/12:13:00/lufthansa/LUF/ 
+nov200/2000/4242/13:43:54/nouvelair/NOV/ 
+uae300/3000/233/12:23:00/fly emirates/UAE/ 
+qat400/4000/490/13:40:00/qatar airways/QAT/ 
+frn500/5000/520/14:12:00/air france/FRN/ 
+tur250/2500/390/14:50:00/turkish airlines/TUR/ 
+ram201/2640/1869/16:13:00/royal air maroc/RAM/ 
+bri140/1700/129/06:30:00/british airways/BRI/ 
+egy206/6900/4002/10:53:54/egyptair/EGY/ 
+uae370/3400/237/02:23:00/fly emirates/UAE/ 
+saa480/5800/409/13:40:00/saudi arabian air/SAA/ 
+usa871/7800/430/14:43:40/american airlines/USA/ 
+tun220/2590/346/04:50:00/tunisair/TUN/ 
+ram600/2640/1869/16:43:00/royal air maroc/RAM/ 
+luf140/2540/1669/22:13:00/lufthansa/LUF/ 
+bri158/1700/129/16:30:00/british airways/BRI/ 
+nov600/5900/4242/09:43:54/nouvelair/NOV/ 
+egy396/6900/3002/11:53:54/egyptair/EGY/ 
+tur350/2500/390/14:40:00/turkish airlines/TUR/ 
+uae800/3700/2337/10:33:00/fly emirates/UAE/ 
+ram220/2640/1069/10:13:00/royal air maroc/RAM/ 
+egy300/6900/1002/15:53:54/egyptair/EGY/ 
+qat760/4700/496/23:50:00/qatar airways/QAT/ 
+saa470/5800/409/13:30:00/saudi arabian air/SAA/ 
+tur890/2500/390/14:55:00/turkish airlines/TUR/ 
+frn560/5700/540/14:12:00/air france/FRN/ 
+ram340/2640/1869/16:04:00/royal air maroc/RAM/ 
+usa870/7800/330/14:50:40/american airlines/USA/ 
+tun199/5780/1039/12:30:00/tunisair/TUN/ 
+tur320/2500/390/14:20:00/turkish airlines/TUR/ 
+luf321/2540/1469/12:43:00/lufthansa/LUF/ 
+saa320/5800/409/23:40:00/saudi arabian air/SAA/ 
+nov208/2560/4642/13:33:54/nouvelair/NOV/ 
+bri340/1700/129/06:35:00/british airways/BRI/ 
+qat980/4090/4940/13:50:00/qatar airways/QAT/ 
+egy396/6000/1502/08:53:54/egyptair/EGY/ 
+frn500/5090/525/14:50:00/air france/FRN/ 
+mar980/2500/400/14:01:00/air arabia maroc/MAR/ 
+luf500/2550/1709/21:13:00/lufthansa/LUF/ 
+saa400/5800/409/12:40:00/saudi arabian air/SAA/ 
+tun990/1990/1209/17:00:00/tunisair/TUN/ 
+nov760/2000/4202/17:43:54/nouvelair/NOV/ 
+uae510/3000/203/22:23:00/fly emirates/UAE/ 
+qat760/4000/400/23:40:00/qatar airways/QAT/ 
+frn509/5000/500/19:12:00/air france/FRN/ 
+mar940/2500/400/14:15:00/air arabia maroc/MAR/ 
+saa390/5800/409/23:50:00/saudi arabian air/SAA/ 
+tun610/5210/790/15:50:00/tunisair/TUN/ 
+egy255/6900/2002/13:53:54/egyptair/EGY/ 
+tun004/5000/4545/12:23:32/tunisair/TUN/ 
+tur240/2500/390/14:58:00/turkish airlines/TUR/ 
+mar880/2600/530/14:18:00/air arabia maroc/MAR/ 
+nov090/2000/4242/13:43:54/nouvelair/NOV/ 
+uae030/3000/233/12:23:00/fly emirates/UAE/ 
+qat070/4000/490/13:40:00/qatar airways/QAT/ 
+frn050/5000/520/14:12:00/air france/FRN/ 
+tun055/2500/390/14:50:00/tunisair/TUN/ 
+ram390/2640/1869/05:13:00/royal air maroc/RAM/ 
+tun044/1700/129/06:30:00/tunisair/TUN/ 
+nov066/2900/4242/16:53:54/nouvelair/NOV/ 
+uae077/3400/237/02:23:00/fly emirates/UAE/ 
+qat088/4800/499/03:40:00/qatar airways/QAT/ 
+frn033/5900/526/18:12:00/air france/FRN/ 
+tun022/2590/346/04:50:00/tunisair/TUN/ 
+ram480/2640/1009/16:33:00/royal air maroc/RAM/ 
+saa900/5800/409/21:40:00/saudi arabian air/SAA/ 
+tun011/7800/1239/06:00:00/tunisair/TUN/ 
+tur220/2520/430/14:23:00/turkish airlines/TUR/ 
+ram790/2640/1869/07:13:00/royal air maroc/RAM/ 
+nov016/5900/4242/09:43:54/nouvelair/NOV/ 
+uae022/3700/2337/10:33:00/fly emirates/UAE/ 
+qat079/4700/496/23:50:00/qatar airways/QAT/ 
+frn069/5700/540/14:12:00/air france/FRN/ 
+tun081/7800/330/14:50:40/tunisair/TUN/ 
+ram790/2640/1069/04:13:00/royal air maroc/RAM/ 
+mar070/2500/400/14:01:00/air arabia maroc/MAR/ 
+nov018/2560/4642/13:33:54/nouvelair/NOV/ 
+uae065/3080/2433/12:33:00/fly emirates/UAE/ 
+qat089/4090/4940/13:50:00/qatar airways/QAT/ 
+frn011/5090/525/14:50:00/air france/FRN/ 
+mar780/2500/400/15:01:00/air arabia maroc/MAR/ 
+tun013/1990/1209/17:00:00/tunisair/TUN/ 
+nov012/2000/4202/17:43:54/nouvelair/NOV/ 
+luf436/2540/1770/18:13:00/lufthansa/LUF/ 
+tur670/2500/390/14:10:00/turkish airlines/TUR/ 
+uae078/3000/203/22:23:00/fly emirates/UAE/ 
+qat039/4000/400/23:40:00/qatar airways/QAT/ 
+luf801/2640/1769/12:13:00/lufthansa/LUF/ 
+frn029/5000/500/19:12:00/air france/FRN/ 
+tun059/5200/790/15:50:00/tunisair/TUN/ 
+tur320/2500/390/14:50:50/turkish airlines/TUR/ 
+tun048/5210/790/15:50:00/tunisair/TUN/ 
+mar690/2500/450/23:01:00/air arabia maroc/MAR/ 
