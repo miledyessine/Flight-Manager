@@ -12,9 +12,6 @@ Miled Yessine - Hajri Kais
 - Store and retrieve data from text files
 - Uses Linked-Lists as a Data Structure to manipulate lists of objects
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
